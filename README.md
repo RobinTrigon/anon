@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white">
 
 
 
@@ -7,11 +7,11 @@
 
 ```yaml
 -Details:
-      -Name: CLICKJACK
-      -type: Simple clickjacking vulnablity scanning tool .
-      -language: python , bash
-      -install: git clone https://github.com/RobinTrigon/clickjack ; cd clickjack ; bash clickjack.sh
-      -thanks: D4Vinci | Coz python script collect from him.
+      -Name: anon
+      -type: Tor ip changing tool .
+      -language: python
+      -install: git clone https://github.com/RobinTrigon/anon ; cd anon ; pip3 install -r requirements.txt ; python3 anon.py
+      -thanks: The earth.
       -coded by: Robin Trigon | 3rr0r-404
 
 
