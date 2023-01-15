@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><img alt="https://raw.githubusercontent.com/RobinTrigon/red0/main/tool.png" width="500px" src="https://raw.githubusercontent.com/RobinTrigon/anon/main/anon.png" /></p>
+<p align="center"><img alt="https://raw.githubusercontent.com/RobinTrigon/red0/main/tool.png" width="1000px" src="https://raw.githubusercontent.com/RobinTrigon/anon/main/anon.png" /></p>
 
 ```yaml
 -Details:
