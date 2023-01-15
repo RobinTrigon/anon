@@ -17,7 +17,7 @@ print('''\033[1;38;5;013m
            +-+ +-+ +-+ +-+
            |A| |N| |O| |N|
            +-+ +-+ +-+ +-+''')
-print("\033[1;38;5;154m                  anonymous tour by \033[1;38;5;051m RobinTrigon\n")
+print("\033[1;38;5;154m                         Anonymous tour by \033[1;38;5;051m RobinTrigon\n")
 print("\033[0m \n")
 def slowprint(s):
     for c in s + '\n' :
@@ -25,9 +25,7 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(10. / 100)
 slowprint("[!] Riding............ ")
-time.sleep(5)
-
-time.sleep(3)
+print("\033[0m \n")
 os.system("service tor start")
 x = "10"
 lin = "0"
@@ -39,7 +37,7 @@ if int(lin) ==int(0):
 			change()
 		except KeyboardInterrupt:
 
-		 	print('\n ')
+		 	print('\n Error ! ')
 		 	quit()
 
 else:
