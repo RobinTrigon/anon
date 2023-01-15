@@ -37,7 +37,7 @@ if int(lin) ==int(0):
 			change()
 		except KeyboardInterrupt:
 
-		 	print('\n Error ! ')
+		 	print('\n Have a nice day ! ')
 		 	quit()
 
 else:
