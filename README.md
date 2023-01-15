@@ -17,4 +17,11 @@
 
 -
 
+```yaml
+-config:
+1- Turn on your browser and go Network Settings.
+2- select Manual proxy configuration.
+3- make SOCKS Host 127.0.0.1 and Port 9050
+4- select SOCKSv5
+
 ```
